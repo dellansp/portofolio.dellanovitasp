@@ -1,17 +1,25 @@
 ---
 layout: post
-title:  Data Analytics Competition Winning Entries
-date:   2020-12-01 16:03:00 +0300
-image:  06.jpg
-tags:   Data_Analytics
+title:  IOT & INNOVATION PROJECT
+date:   2025-07-01 16:03:00 +0300
+image:  innovation.png
+tags:   IoT, RnD, Embended System
 ---
-## Data Analytics Competition Final Project
 
-### Requirements and Evaluation
-1. Participants are required to thoroughly read the case introduction, fulfill the basic requirements, and are encouraged to go beyond the basics by incorporating additional analysis.
-2. Participants in the Python Data Analysis category and the Excel Data Analysis category should use respective tools to complete the case requirements. The analysis report should be crafted using Microsoft Word, with a focus on incorporating both graphics and text.
-3. The judging panel will evaluate the submitted analysis reports based on content (completeness of the project, data visualization, innovation, etc.) and presentation (format, layout, etc.).
 
+## MENCIPTAKAN INOVASI SUNGGUH ASIK !
+
+Saya adalah seorang IT Research Enthusiast, dengan minat khusus dalam pengembangan Internet of Things (IoT). Ketertarikan saya bermula sejak masa SMK, saat pertama kali mempelajari mikroprosesor, gerbang logika, dan bahasa pemrograman C++. Dari sana, saya berhasil membuat proyek prototipe rambu-rambu lalu lintas otomatis, yang menjadi titik awal eksplorasi saya di bidang teknologi tertanam.
+
+Minat ini semakin berkembang ketika saya melanjutkan studi di jurusan Informatika. Selama kuliah, saya aktif dalam organisasi mahasiswa yang fokus pada riset, inovasi, robotika, dan kewirausahaan teknologi. Keterlibatan ini memperluas pengetahuan saya terhadap mikrokontroler seperti Arduino, ESP8266, dan berbagai modul sensor, sekaligus mengasah kemampuan saya dalam merancang sistem IoT yang terintegrasi.
+
+### 💡 SMOKPOLISA – Sistem Monitoring Kebocoran Pipa Landfill Gas pada PLTSa Berbasis IoT
+Salah satu proyek yang pernah saya kerjakan adalah SMOKPOLISA (Sistem Monitoring Kebocoran Pipa Landfill Gas pada PLTSa Berbasis Internet of Things). Proyek ini dirancang sebagai solusi untuk mendeteksi kebocoran gas metana dari pipa landfill di Pembangkit Listrik Tenaga Sampah (PLTSa). Sistem ini mengintegrasikan mikrokontroler seperti Arduino, ESP8266, dan ATmega, dengan berbagai platform IoT seperti MQTT, Blynk, Antares, ThingsBoard, dan ThingSpeak untuk melakukan pemantauan secara real-time.
+![]({{site.baseurl}}/img/smokpolisa.png)
+
+Pengembangan SMOKPOLISA meliputi implementasi sistem monitoring, integrasi antara perangkat keras dengan media pemantauan daring, serta perancangan prototipe dan mockup hardware yang mendekati kondisi implementasi nyata. Sistem ini diprogram menggunakan bahasa C++, Java, serta komunikasi berbasis HTTPClient.
+
+Melalui proyek ini, saya tidak hanya memperdalam pemahaman teknis terkait IoT dan sensor lingkungan, tetapi juga berhasil membawa tim meraih peringkat 3 dalam ajang Lomba Karya Tulis Ilmiah Nasional (LKTIN) sebagai bentuk pengakuan terhadap inovasi dan kebermanfaatan proyek tersebut.
 ### Project Introduction
 
 #### Dataset Name: Taipei Real Estate Dataset.xlsx
