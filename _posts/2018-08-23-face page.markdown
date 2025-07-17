@@ -1,27 +1,32 @@
 ---
 layout: post
-title:  Isaiah Qian
-date:   2023-07-23 16:05:55 +0300
-image:  01.jpg
+title:  Della Novita SP
+date:   2025-03-17 16:05:55 +0300
+image:  rnd.png
 tags:   [Background]
 ---
-I am a Master's student actively pursuing opportunities in the field of Data Science, armed with ample project experience spanning machine learning and data analytics. My research is centered at the crossroads of recommender systems and neural network models. Profoundly versed in statistics and data analytics, I boast robust programming skills in both Python and SQL.
+> ### Hai, Saya Della 🌱
+Saya adalah seorang lulusan Informatika dengan pengalaman kerja lebih dari 3 tahun di bidang teknologi informasi. Ketertarikan saya terhadap pengembangan aplikasi mobile, sistem berbasis Internet of Things (IoT), dan pemrosesan data telah membentuk arah karier saya sejauh ini. Saya percaya bahwa teknologi bukan hanya tentang membangun sistem, tetapi tentang menciptakan solusi nyata yang berdampak langsung pada kehidupan masyarakat.
 
-> ### Education
+> ### 🎓 Pendidikan
 
-#### Bachelor of Computer Science in Shanghai University
+#### Sarjana Teknik Informatika - Institut Teknologi PLN – Jakarta Barat, DKI Jakarta
+##### 2017 – 2022 | IPK: 3.42
+Selama kuliah, saya mendalami berbagai bidang seperti rekayasa perangkat lunak, automasi berbasis mikrokontroler dan robotik, jaringan komputer, serta basis data. Pengalaman akademik ini menjadi pondasi penting dalam membangun ketertarikan saya pada pengembangan teknologi terapan, baik dari sisi software maupun hardware.
 
-I pursued my undergraduate studies in Computer Science at Shanghai University, one of China's top 10% ranked institutions. Throughout my undergraduate years, I garnered several honors, including the prestigious "Model Student of Academic Records Scholarship Recipient" (1% of tatal student) in 2019, and I was recognized as an Outstanding Graduate in 2022. During this period, I also actively engaged in various national-level competitions, achieving a first-place award in the National Data Analysis Competition and an accolade for excellence in the College Student Entrepreneurship Contest.
+> ### 💼 Pengalaman Kerja
 
-#### Master of Management in Tulane University
+#### Junior Technical Support Grade 2
+##### PT PLN Icon Plus | 2021 – 2023
+Di sinilah saya mulai mendalami dunia riset dan pengembangan digital pada level enterprise. Salah satu pengalaman berkesan adalah keterlibatan saya dalam tim riset untuk pengembangan fitur SmartHome System dalam aplikasi PLN Mobile.
 
-Building upon my solid academic foundation, I pursued a Master of Management degree at Tulane University in the United States. Despite my transition to the realm of business, I continued my pursuit of knowledge in the field of machine learning by enrolling in advanced courses such as Deep Neural Networks and Mathematical Statistics. This multidisciplinary approach reflects my commitment to merging the insights from computer science with business acumen, thereby equipping myself with a holistic skill set for the contemporary professional landscape.
+Fitur ini dirancang untuk memberikan kontrol otomatisasi rumah kepada pelanggan melalui aplikasi PLN Mobile. Dalam tahap perencanaan, kami bekerja sama dengan vendor perangkat smart home berbasis platform Tuya, yang sudah dikenal luas karena ekosistem IoT-nya yang fleksibel dan mendukung integrasi multi-device melalui cloud Tuya. Saya terlibat dalam:
 
-> ### Work Experience
+Melakukan riset terhadap kebutuhan pengguna terhadap kontrol perangkat rumah tangga dari jarak jauh.
+Menyusun spesifikasi awal dan logika integrasi perangkat Tuya ke dalam ekosistem PLN.
+Berkoordinasi dengan pihak vendor dan tim pengembang internal untuk menyusun roadmap pengembangan.
 
-#### Financial Fraud Risk Analyst 
-
-In my most recent role, I undertook a Commercial Banking Financial Fraud Risk Analyst Internship at Hang Seng Bank. During this internship, I focused on harnessing the power of data analysis and machine learning to scrutinize vast amounts of data, often in the gigabyte range, pertaining to new clientele. I am particularly proud to highlight the achievement of an impressive accuracy rate of 82% through my analytical efforts. For an in-depth exploration of the specifics of this role, I invite you to refer to another blog post where I delve into the details.
+Kerja sama ini memberi saya wawasan teknis tentang cara cloud Tuya menghubungkan perangkat IoT seperti lampu, kunci pintar, CCTV, hingga sensor gerak, serta bagaimana protokol dan API mereka dapat dimanfaatkan dalam aplikasi nasional seperti PLN Mobile.
 
 #### Investment Banking Summer Analyst 
 
