@@ -19,10 +19,22 @@ Jawaban saya sederhana: karena saya pernah gagal. Beberapa kali melamar pekerjaa
 
 Saya sadar bahwa jika ingin didengar, saya harus membuktikan diri. Maka saya memutuskan untuk melanjutkan pendidikan ke jenjang kuliah, memilih jurusan Teknik Informatika di salah satu universitas di Jakarta Barat. Ternyata, banyak hal yang saya pelajari di SMK justru sangat berkaitan dengan apa yang saya temui di dunia informatika. Dari situ saya semakin semangat untuk belajar dan menyerap ilmu baru yang saya yakini akan bermanfaat di masa depan.
 
-![]({{site.baseurl}}/img/10.jpg)
+![]({{site.baseurl}}/img/aboutme1.png)
 
-I've come to realize that creative fulfillment is an indispensable part of my life. As I delved into the world of the financial industry, a stark truth became evident: my role, despite being labeled as a financial analyst, was primarily centered around product promotion. This realization was a source of immense frustration for me. It dawned on me that I couldn't channel my passion effectively into a job that revolved solely around product promotion. I couldn't summon the enthusiasm to excel in a role that lacked a genuine sense of purpose.
+Selama kuliah, saya aktif dalam beberapa organisasi yang sesuai dengan passion saya. Hingga akhirnya, tantangan baru datang di semester akhir: memilih antara menyelesaikan skripsi atau mengambil kesempatan internship. Saya memilih internship, dan syukurnya saya ditempatkan di divisi IT Research and Development — divisi yang selaras dengan minat saya. Pengalaman ini sangat berharga, dan saya tetap berhasil menyelesaikan skripsi serta lulus dengan nilai memuaskan.
 
-During this moments, I'd find myself gazing enviously at the construction workers working diligently outside my office windows. It was in those instances that I unearthed the key to igniting my passion. I recognized that my true calling was deeply intertwined with creation – the act of building something from scratch, regardless of the sacrifices that might be required.
+Tahun 2022 menjadi babak baru dalam hidup saya: saya menikah, dan kini menjalani peran sebagai istri dan ibu. Namun, di tengah upaya saya kembali mencari pekerjaan, muncul pertanyaan yang cukup menyentuh:
 
-> Do not go gentle into that good night
+Apakah seorang perempuan yang sudah menikah dan menjadi ibu tidak pantas bekerja dan berkarier seperti mereka yang berada di gedung-gedung tinggi?
+
+Jawaban saya adalah: pantas, dan sangat bisa.
+
+Menjadi seorang istri dan ibu tidak pernah mengurangi nilai seorang perempuan. Justru, dari sana muncul kekuatan dan ketangguhan yang luar biasa. Status pernikahan bukan batas, melainkan identitas baru yang bisa memperkaya peran dan perspektif kita dalam dunia kerja dan kehidupan.
+
+🌱 Untuk kamu yang mungkin sedang mengalami fase seperti saya:
+Jangan biarkan label sosial atau status hidup membatasi langkahmu.
+Kamu berhak tumbuh, berhak bermimpi, dan berhak membuktikan diri.
+Karena perempuan hebat bukan yang tak pernah jatuh — tapi yang selalu bangkit dan berjalan lagi.
+
+Dan ya, menjadi ibu bukan akhir dari perjalanan, justru itu awal dari kekuatan baru.
+
