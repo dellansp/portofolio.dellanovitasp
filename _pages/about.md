@@ -5,9 +5,10 @@ image: 08.jpg
 permalink: /about/
 ---
 
-Hey, Stranger~ 
+**Mencari Makna Lewat Rasa Ingin Tahu**
+Halo! Perkenalkan, saya **Della Novita** — tapi kamu bisa panggil saya **Della**. Saya adalah seorang perempuan, anak pertama dalam keluarga, dan seseorang yang sejak kecil memiliki rasa penasaran yang besar terhadap banyak hal.
 
-I'm LePing Qian, you also can call me Isaiah. I believe you already read both my blog post and my CV, I'm appreciate you taking your time for that. In this page, I'd like to steer away from the usual discussions about my educational background, experiences, and projects. Instead, I'd like to share something that comes from the depths of my heart – something I'm continuously pursuing and that has brought about significant change within me.
+Perjalanan saya dimulai sejak menginjak bangku SMK. Saat itu, saya diarahkan untuk mengambil jurusan Elektronika — sebuah pilihan yang awalnya tidak begitu saya minati. Namun justru dari situlah saya mulai mengenal dunia teknik. Saya belajar tentang bagaimana komponen kecil bisa membentuk sebuah televisi, bagaimana listrik mengalir dan diciptakan, hingga bagaimana teknologi menyatu dalam kehidupan kita sehari-hari. Semakin saya pelajari, semakin besar pula rasa ingin tahu saya. Dan rasa ingin tahu itulah yang menjadi bahan bakar utama saya hingga hari ini.
 
 Have you ever wondered what you truly want as you grow older? Have you pondered on the aspirations you hold for yourself at the age of 30, or even 40? These are the questions that have lingered in my mind for a considerable stretch of time. They plagued me during high school and continued to persist throughout my undergraduate years. I embarked on a journey to decipher the essence of life and the significance of work. Was money the sole driving force that would propel me forward? Deep down, I knew that couldn't be the sole answer.
 
