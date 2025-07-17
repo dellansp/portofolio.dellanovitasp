@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Della Novita SP
-date:   2025-03-17 16:05:55 +0300
+date:   2025-07-17 16:05:55 +0300
 image:  rnd.png
 tags:   IT RESEARCH AND DEVELOP ENTHUSIAST
 ---
