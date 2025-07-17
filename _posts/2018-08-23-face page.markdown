@@ -29,27 +29,59 @@ Berkoordinasi dengan pihak vendor dan tim pengembang internal untuk menyusun roa
 
 Kerja sama ini memberi saya wawasan teknis tentang cara cloud Tuya menghubungkan perangkat IoT seperti lampu, kunci pintar, CCTV, hingga sensor gerak, serta bagaimana protokol dan API mereka dapat dimanfaatkan dalam aplikasi nasional seperti PLN Mobile.
 
-#### Investment Banking Summer Analyst 
+#### Administrator Aset dan Perizinan
+KOMITEL (Koperasi Jasa Dayamitra Telekomunikasi) | 2023 – 2025
 
-I also gained valuable experience through two other distinct roles. As an Investment Banking Summer Analyst at China International Capital Corporation Limited (CICC), I concentrated on the steel industry. My primary accomplishment involved constructing a sophisticated deep learning time series model, specifically a Long Short-Term Memory (LSTM) model, for predicting stock prices. I executed this task using TensorFlow, a powerful machine learning framework.
+Berperan dalam pengelolaan aset dan perizinan operasional di lingkungan kerja yang tersebar di berbagai wilayah, saya mengambil inisiatif untuk mengembangkan sistem monitoring peminjaman aset serta manajemen dokumen perizinan berbasis digital, guna meningkatkan efisiensi dan akurasi administrasi.
 
-#### Business Analyst Intern
+Selain itu, saya juga mengelola sistem SAP untuk kebutuhan administrasi inventaris aset dan pelaporan operasional, serta mengoperasikan sistem CRM internal untuk mendukung koordinasi antar tim dan pelacakan aktivitas yang berhubungan dengan perizinan lokasi kerja.
 
-Furthermore, during my tenure as a Business Analyst Intern at China United Property Insurance Co., Ltd., I was entrusted with the task of uncovering and analyzing data to facilitate informed decision-making. In this capacity:
+Salah satu tanggung jawab penting saya adalah dalam pengelolaan perizinan masuk area, khususnya untuk site telekomunikasi (seperti tower BTS). Proses ini melibatkan:
 
-I spearheaded the development of Python scripts to facilitate data scraping. By skillfully implementing web crawlers, I successfully gathered essential insurance policyholder information from diverse online sources. This innovative approach resulted in automated data aggregation, leading to a remarkable 200% reduction in time expenditure.
+Pembuatan dan pengajuan dokumen akses (site access) ke vendor atau pemilik lahan.
+Koordinasi lintas departemen untuk persetujuan administratif.
+Pengarsipan digital dan pelacakan status izin secara real-time.
 
-These experiences highlight my commitment to leveraging data-driven insights and employing cutting-edge techniques to enhance operational efficiency and drive strategic decision-making across various sectors.
+Melalui pengalaman ini, saya semakin terbiasa memadukan pemahaman teknis IT dengan kebutuhan administratif lapangan, yang sangat berguna dalam membangun sistem yang tidak hanya fungsional tapi juga responsif terhadap kebutuhan operasional harian
 
-> ### Project
+> ### 🚀 Proyek Unggulan
 
-#### Movie Recommendation System Design
+#### Aplikasi E-Commerce “Happy Shop”
  
-One of the pivotal projects during my academic journey was the "Movie Recommendation System Design," which I conducted under the guidance of Dr. Gang Yu. This project not only showcased my technical prowess but also my ability to craft innovative solutions in real-world contexts.
+Merupakan hasil dari bootcamp Sanbercode x Disnakertrans Jawa Barat. Dalam proyek ini saya bertanggung jawab sebagai Full-Stack Mobile Developer, membangun aplikasi berbasis Flutter dan Firebase dari awal. Fitur utama meliputi:
 
-To begin with, I established a robust data pipeline that facilitated the seamless preprocessing and analysis of a movie rating dataset. My meticulous approach optimized the data cleaning and exploratory data analysis processes, thereby laying a solid foundation for the subsequent stages.
+Autentikasi pengguna
+Manajemen produk dan keranjang belanja
+Integrasi metode pembayaran
+Notifikasi pesanan real-time
 
-Building upon this groundwork, I embarked on the development of user-based collaborative filtering algorithms. These algorithms played a pivotal role in furnishing initial movie recommendations, effectively boosting user engagement and mitigating the challenges posed by the cold-start problem often encountered in recommendation systems.Furthermore, I demonstrated my proficiency by conceiving and executing the implementation of a deep learning model. This model, notable for its integration of both user and item features, boasted three hidden layers. This architectural innovation underscored my capability to synergize intricate aspects of machine learning and neural networks to craft efficient and effective solutions.
+#### Aplikasi Smart Permission
+ 
+Saya mengembangkan Smart Permit, aplikasi berbasis Google AppSheet untuk monitoring peminjaman kunci site dan perizinan masuk area operasional. Aplikasi ini mendigitalisasi proses pengajuan izin, pelacakan aset, serta dokumentasi administrasi, yang sebelumnya dilakukan secara manual. Dengan fitur notifikasi otomatis, QR code, dan integrasi Google Sheets, sistem ini berhasil meningkatkan efisiensi dan transparansi dalam pengelolaan izin operasional di lingkungan kerja.
 
-In the spirit of continuous improvement, I engaged in comprehensive experimentation. This involved the fusion of diverse models to yield more precise recommendation strategies catering to various scenarios. This strategic amalgamation of models culminated in an amplified degree of accuracy, further enhancing the efficacy of the recommendation system.
+#### Sistem Monitoring Kebocoran Gas Berbasis IoT
+ 
+Sistem ini dikembangkan untuk kebutuhan pemantauan keamanan berbasis sensor gas, yang kemudian memenangkan penghargaan dalam lomba inovasi teknologi. Saya bertanggung jawab pada sisi mikrokontroler (Arduino), integrasi sensor, dan koneksi data ke dashboard pemantauan real-time.
+
+> ### 🧠 Keahlian Teknis
+Mobile & Web Development: Flutter, Dart, Firebase
+IoT Development: Arduino, Mikrokontroler, Tuya Cloud, Desain PCB (Eagle)
+Database: MySQL, Firestore
+Networking: Dasar Routing & Switching (Cisco)
+Data Analytics: Microsoft Excel, SQL dasar
+Tools: GitHub, Microsoft Office, Coreldraw, Visual Studio Code
+
+> ### 📜 Sertifikasi & Prestasi
+Flutter Mobile Apps Development – Beasiswa SuperBootcamp (2024)
+Quality Assurance Introduction – MySkill (2024)
+Machine Learning – IEEE (2021)
+Finalis LKTIN – Universitas Diponegoro (2019)
+Juara 3 LKTIN Ristekfair – Nasional (2019)
+Juara Favorit Karya Anak Bangsa – SITOS.id (2018)
+
+> ### 🌟 Nilai Personal
+Saya adalah seseorang yang suka belajar hal baru, memiliki antusiasme tinggi dalam menyelesaikan tantangan, dan percaya bahwa teknologi adalah alat untuk membawa perubahan positif.
+
+Kombinasi latar belakang teknis, pengalaman organisasi, serta semangat kolaboratif yang tinggi membuat saya terbuka terhadap berbagai peluang dalam riset teknologi, pengembangan aplikasi, dan integrasi sistem berbasis IoT.
+
 
