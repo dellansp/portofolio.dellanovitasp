@@ -63,7 +63,7 @@ Saya mengembangkan Smart Permit, aplikasi berbasis Google AppSheet untuk monitor
  
 Sistem ini dikembangkan untuk kebutuhan pemantauan keamanan berbasis sensor gas, yang kemudian memenangkan penghargaan dalam lomba inovasi teknologi. Saya bertanggung jawab pada sisi mikrokontroler (Arduino), integrasi sensor, dan koneksi data ke dashboard pemantauan real-time.
 
-> ### 🧠 Keahlian Teknis
+> #### 🧠 Keahlian Teknis
 Mobile & Web Development: Flutter, Dart, Firebase
 IoT Development: Arduino, Mikrokontroler, Tuya Cloud, Desain PCB (Eagle)
 Database: MySQL, Firestore
@@ -71,7 +71,7 @@ Networking: Dasar Routing & Switching (Cisco)
 Data Analytics: Microsoft Excel, SQL dasar
 Tools: GitHub, Microsoft Office, Coreldraw, Visual Studio Code
 
-> ### 📜 Sertifikasi & Prestasi
+> #### 📜 Sertifikasi & Prestasi
 Flutter Mobile Apps Development – Beasiswa SuperBootcamp (2024)
 Quality Assurance Introduction – MySkill (2024)
 Machine Learning – IEEE (2021)
@@ -79,7 +79,7 @@ Finalis LKTIN – Universitas Diponegoro (2019)
 Juara 3 LKTIN Ristekfair – Nasional (2019)
 Juara Favorit Karya Anak Bangsa – SITOS.id (2018)
 
-> ### 🌟 Nilai Personal
+> #### 🌟 Nilai Personal
 Saya adalah seseorang yang suka belajar hal baru, memiliki antusiasme tinggi dalam menyelesaikan tantangan, dan percaya bahwa teknologi adalah alat untuk membawa perubahan positif.
 
 Kombinasi latar belakang teknis, pengalaman organisasi, serta semangat kolaboratif yang tinggi membuat saya terbuka terhadap berbagai peluang dalam riset teknologi, pengembangan aplikasi, dan integrasi sistem berbasis IoT.
