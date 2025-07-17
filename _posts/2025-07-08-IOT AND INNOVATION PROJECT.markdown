@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  IOT & INNOVATION PROJECT
-date:   2025-07-01 16:03:00 +0300
+date:   2025-07-08 16:03:00 +0300
 image:  innovation.png
 tags:   IoT, RnD, Embended System
 ---
