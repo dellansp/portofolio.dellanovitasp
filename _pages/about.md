@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: 08.jpg
+image: aboutme.png
 permalink: /about/
 ---
 
@@ -10,9 +10,13 @@ Halo! Perkenalkan, saya **Della Novita** — tapi kamu bisa panggil saya **Della
 
 Perjalanan saya dimulai sejak menginjak bangku SMK. Saat itu, saya diarahkan untuk mengambil jurusan Elektronika — sebuah pilihan yang awalnya tidak begitu saya minati. Namun justru dari situlah saya mulai mengenal dunia teknik. Saya belajar tentang bagaimana komponen kecil bisa membentuk sebuah televisi, bagaimana listrik mengalir dan diciptakan, hingga bagaimana teknologi menyatu dalam kehidupan kita sehari-hari. Semakin saya pelajari, semakin besar pula rasa ingin tahu saya. Dan rasa ingin tahu itulah yang menjadi bahan bakar utama saya hingga hari ini.
 
-Have you ever wondered what you truly want as you grow older? Have you pondered on the aspirations you hold for yourself at the age of 30, or even 40? These are the questions that have lingered in my mind for a considerable stretch of time. They plagued me during high school and continued to persist throughout my undergraduate years. I embarked on a journey to decipher the essence of life and the significance of work. Was money the sole driving force that would propel me forward? Deep down, I knew that couldn't be the sole answer.
+Selepas SMK, banyak yang bertanya:
 
-I encountered a crossroads during my second internship – an experience that I found myself disliking immensely. It led me to question the true purpose of my efforts. The persistent discomfort I felt during that period began to cast doubts over my path, making me contemplate quitting, regardless of the offered salary. However, something shifted, something clicked, which reignited the spark of passion within me for my future endeavors. This transformation was not fleeting; its impact has endured and continues to resonate with me to this day.
+“Kenapa kuliah? Bukankah SMK disiapkan untuk langsung bekerja?”
+
+Jawaban saya sederhana: karena saya pernah gagal. Beberapa kali melamar pekerjaan dan ditolak hanya karena saya perempuan, lulusan teknik, dan berkacamata. Saya merasa dipandang sebelah mata.
+
+Saya sadar bahwa jika ingin didengar, saya harus membuktikan diri. Maka saya memutuskan untuk melanjutkan pendidikan ke jenjang kuliah, memilih jurusan Teknik Informatika di salah satu universitas di Jakarta Barat. Ternyata, banyak hal yang saya pelajari di SMK justru sangat berkaitan dengan apa yang saya temui di dunia informatika. Dari situ saya semakin semangat untuk belajar dan menyerap ilmu baru yang saya yakini akan bermanfaat di masa depan.
 
 ![]({{site.baseurl}}/img/10.jpg)
 
