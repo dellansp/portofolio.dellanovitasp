@@ -9,7 +9,7 @@ tags:   Flutter MobileDev WebDev Firebase Dart
 
 💻 "Saya percaya bahwa setiap baris kode adalah kesempatan untuk tumbuh. Dengan latar belakang informatika dan semangat belajar tinggi, saya siap berkembang di dunia teknologi."
 
-# 💡HAPPY SHOP - MOBILE APP (FLUTTER)
+## 💡HAPPY SHOP - MOBILE APP (FLUTTER)
 
 Happy Shop adalah aplikasi penjualan pertama yang saya kembangkan menggunakan Flutter dan bahasa pemrograman Dart, sebagai hasil dari pembelajaran selama mengikuti program beasiswa dari Disnakertrans Jawa Barat. Aplikasi ini dirancang untuk mempermudah proses transaksi penjualan dengan tampilan yang menarik dan user-friendly.
 ![]({{site.baseurl}}/img/happyshop.png)
@@ -18,7 +18,7 @@ Fitur utama dari aplikasi ini mencakup sistem login dan registrasi pengguna meng
 
 Proyek ini dikerjakan secara kolaboratif menggunakan GitHub sebagai tools version control, sehingga menjadi pengalaman pertama saya dalam bekerja secara tim menggunakan alur kerja profesional. Happy Shop menjadi fondasi penting dalam perjalanan saya memahami pengembangan aplikasi mobile berbasis Flutter dan integrasi layanan cloud.
 
-# 💡SMARTKEY PERMISSION (GOOGLE - APPSHEET)
+## 💡SMARTKEY PERMISSION (GOOGLE - APPSHEET)
 
 SmartKey Permission adalah aplikasi berbasis Google AppSheet yang saya kembangkan untuk mempermudah proses monitoring peminjaman kunci site yang tersebar di berbagai homebase milik KOMITEL. Aplikasi ini dirancang untuk mencatat aktivitas peminjaman dan pengembalian kunci secara digital, menggantikan proses manual yang sebelumnya sulit dilacak dan kurang efisien.
 
