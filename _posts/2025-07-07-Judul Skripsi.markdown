@@ -3,7 +3,7 @@ layout: post
 title:  Hasil Skripsi
 date:   2025-07-07 16:03:50 +0300
 image:  mamdani.png
-tags:   Fuzzy Logic, Mamdani, Python, IoT, Microcontroller
+tags:   Fuzzy Logic Mamdani Python IoT
 ---
 
 ### 💡 Rancang Bangun Alat Pendeteksi Golongan Air Berdasarkan Kegunaannya Dengan Methode Fuzzy Logic Mamdani
