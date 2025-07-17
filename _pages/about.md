@@ -6,6 +6,7 @@ permalink: /about/
 ---
 
 **Mencari Makna Lewat Rasa Ingin Tahu**
+
 Halo! Perkenalkan, saya **Della Novita** — tapi kamu bisa panggil saya **Della**. Saya adalah seorang perempuan, anak pertama dalam keluarga, dan seseorang yang sejak kecil memiliki rasa penasaran yang besar terhadap banyak hal.
 
 Perjalanan saya dimulai sejak menginjak bangku SMK. Saat itu, saya diarahkan untuk mengambil jurusan Elektronika — sebuah pilihan yang awalnya tidak begitu saya minati. Namun justru dari situlah saya mulai mengenal dunia teknik. Saya belajar tentang bagaimana komponen kecil bisa membentuk sebuah televisi, bagaimana listrik mengalir dan diciptakan, hingga bagaimana teknologi menyatu dalam kehidupan kita sehari-hari. Semakin saya pelajari, semakin besar pula rasa ingin tahu saya. Dan rasa ingin tahu itulah yang menjadi bahan bakar utama saya hingga hari ini.
