@@ -1,16 +1,16 @@
 #-------------------------------
 # General Site Settings
 
-title: Isaiah Qian Blog
-description: This is my personal Blog web
+title: Portofolio - Della Novita SP
+description: Assalamualaikum !
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://lepingqian.github.io" 
+url: "https://dellansp.github.io"
 
 
 #-------------------------------
 # About Section
-author-name:   LePing Qian
-author-avatar: 09.jpg
+author-name:   Della Novita SP
+author-avatar: rnd.png
 
 
 #-------------------------------
@@ -21,7 +21,7 @@ instagram: https://www.instagram.com/# Add your Facebook handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: dnsp # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
