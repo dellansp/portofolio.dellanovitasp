@@ -6,6 +6,7 @@ image:  rnd.png
 tags:   [Background]
 ---
 > ### Hai, Saya Della 🌱
+
 Saya adalah seorang lulusan Informatika dengan pengalaman kerja lebih dari 3 tahun di bidang teknologi informasi. Ketertarikan saya terhadap pengembangan aplikasi mobile, sistem berbasis Internet of Things (IoT), dan pemrosesan data telah membentuk arah karier saya sejauh ini. Saya percaya bahwa teknologi bukan hanya tentang membangun sistem, tetapi tentang menciptakan solusi nyata yang berdampak langsung pada kehidupan masyarakat.
 
 > ### 🎓 Pendidikan
